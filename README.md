@@ -6,13 +6,13 @@
 <li>Elias Hossain <sup>1</sup></li>
 
 </ul>
-Department of Software Engineering, Daffodil International UniversityDhakaBangladesh <sup>1</sup> <br>
+Daffodil International UniversityDhakaBangladesh <sup>1</sup> <br>
 
 <ul>
 <li>Md. Nadim Kaysar <sup>2</sup></li>
 
 </ul>
-Department of Computer Science & Engineering, World University of Bangladesh<sup>2</sup> <br>
+World University of Bangladesh<sup>2</sup> <br>
 
 
 # Abstract
