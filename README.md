@@ -4,15 +4,12 @@
 <h4> Authors</h4>
 <ul>
 <li>Elias Hossain <sup>1</sup></li>
-
-</ul>
-Daffodil International UniversityDhakaBangladesh <sup>1</sup> <br>
-
-<ul>
 <li>Md. Nadim Kaysar <sup>2</sup></li>
-
+<li>Abu Zahid Md. Jalal Uddin Joy <sup>3</sup></li>
+<li>Md. Mizanur Rahman <sup>4</sup></li>
+<li>Wahidur Rahman <sup>5</sup></li>
 </ul>
-World University of Bangladesh<sup>2</sup> <br>
+
 
 
 # Abstract
