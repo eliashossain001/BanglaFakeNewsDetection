@@ -1,4 +1,4 @@
-# Identifying Bangla Fake News using Computational Approach 
+# Bangla Fake News Detection and Comparing Feature Extraction
 
 
 <h4> Authors</h4>
@@ -23,4 +23,13 @@ Verifying Bangla Fake news is challenging, especially if there are many updates 
 
 # Cite this work/Article
 
-Hossain, E., Nadim Kaysar, M., Jalal Uddin Joy, A.Z.M., Mizanur Rahman, M., Wahidur Rahman (2022). A Study Towards Bangla Fake News Detection Using Machine Learning and Deep Learning. In: Shakya, S., Balas, V.E., Kamolphiwong, S., Du, KL. (eds) Sentimental Analysis and Deep Learning. Advances in Intelligent Systems and Computing, vol 1408. Springer, Singapore. https://doi.org/10.1007/978-981-16-5157-1_7
+@incollection{hossain2022study,
+  title={A Study Towards Bangla Fake News Detection Using Machine Learning and Deep Learning},
+  author={Hossain, Elias and Kaysar, Nadim and Joy, Jalal Uddin and Md, Abu Zahid and Rahman, Mizanur and Rahman, Wahidur and others},
+  booktitle={Sentimental Analysis and Deep Learning},
+  pages={79--95},
+  year={2022},
+  publisher={Springer},
+  url={https://doi.org/10.1007/978-981-16-5157-1_7}
+}
+
