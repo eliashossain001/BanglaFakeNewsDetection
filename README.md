@@ -23,13 +23,13 @@ Verifying Bangla Fake news is challenging, especially if there are many updates 
 
 # Cite this work/Article
 
-@incollection{hossain2022study,
-  title={A Study Towards Bangla Fake News Detection Using Machine Learning and Deep Learning},
-  author={Hossain, Elias and Kaysar, Nadim and Joy, Jalal Uddin and Md, Abu Zahid and Rahman, Mizanur and Rahman, Wahidur and others},
-  booktitle={Sentimental Analysis and Deep Learning},
-  pages={79--95},
-  year={2022},
-  publisher={Springer},
-  url={https://doi.org/10.1007/978-981-16-5157-1_7}
+@incollection{hossain2022study, <br>
+  title={A Study Towards Bangla Fake News Detection Using Machine Learning and Deep Learning},<br>
+  author={Hossain, Elias and Kaysar, Nadim and Joy, Jalal Uddin and Md, Abu Zahid and Rahman, Mizanur and Rahman, Wahidur and others},<br>
+  booktitle={Sentimental Analysis and Deep Learning},<br>
+  pages={79--95},<br>
+  year={2022},<br>
+  publisher={Springer},<br>
+  url={https://doi.org/10.1007/978-981-16-5157-1_7}<br>
 }
 
