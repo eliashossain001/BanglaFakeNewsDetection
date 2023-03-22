@@ -1,23 +1,25 @@
-# Bangla Fake News Detection and Comparing Feature Extraction
+# Bangla Fake News Detection using Machine Learning and Deep Learning
 
+This project is based on the research paper titled "A Study Towards Bangla Fake News Detection Using Machine Learning and Deep Learning" by Hossain et al. The aim of the project is to identify Bangla fake news articles using machine learning and deep learning techniques.
 
-<h4> Authors</h4>
-<ul>
-<li>Elias Hossain <sup>1</sup></li>
-<li>Md. Nadim Kaysar <sup>2</sup></li>
-<li>Abu Zahid Md. Jalal Uddin Joy <sup>3</sup></li>
-<li>Md. Mizanur Rahman <sup>4</sup></li>
-<li>Wahidur Rahman <sup>5</sup></li>
-</ul>
+## Requirements
 
-<h4> Affiliation</h4>
+The following libraries are required to run the code:
 
-Daffodil International University, Bangladesh <sup>1,3</sup> <br> 
-World University of Bangladesh <sup>2</sup> <br> 
-Rajshahi University of Engineering and Technology, Bangladesh <sup>4</sup> <br> 
-Mawlana Bhashani Science and Technology University, Santosh, Bangladesh <sup>5</sup> <br> 
+- Tensorflow 2.0 or higher
+- Keras
+- Scikit-learn
+- Pandas
+- Numpy
 
+## Dataset
 
-# Abstract
-Verifying Bangla Fake news is challenging, especially if there are many updates from various sources such as social media or online news portals. This study aims to identify the Bangla fake news article; therefore, our Corpus is trained with 57,000 Bangla news items related to trustworthiness and counterfeit. In this study, 95% and 94% accuracy were found by applying K-fold cross validation on top of Bi-LSTM with Glove and FastText model. At the time, the research is also experimented with the state-of-the-art technique like Gated Recurrent Unit (GRU) and found the accuracy 77%. In sharp contrast, we tracked out the accuracy of 96% utilizing the Bi-LSTM which identically indicates our proposed model. A comparative study on existing work has been utilized in this research. Again, some experimental analysis based on the FEM is shown elaborately in this research. However, the proposed system can be adjustable in real-time news classification of Bangla Fake news.
+The researchers used a corpus of 57,000 Bangla news articles related to trustworthiness and counterfeit to train their models. The dataset is not included in this repository but can be obtained by contacting the authors.
 
+## Models
+
+The study used two deep learning models, Bi-LSTM with Glove and FastText embeddings, and a state-of-the-art model, Gated Recurrent Unit (GRU). The models were evaluated using K-fold cross-validation and achieved accuracy scores of 95% and 94% for Bi-LSTM with Glove and FastText, respectively. The GRU model achieved an accuracy score of 77%.
+
+## References
+
+Hossain, E., Nadim Kaysar, M., Jalal Uddin Joy, A.Z.M., Mizanur Rahman, M., Wahidur Rahman (2022). A Study Towards Bangla Fake News Detection Using Machine Learning and Deep Learning. In: Shakya, S., Balas, V.E., Kamolphiwong, S., Du, KL. (eds) Sentimental Analysis and Deep Learning. Advances in Intelligent Systems and Computing, vol 1408. Springer, Singapore. https://doi.org/10.1007/978-981-16-5157-1_7
